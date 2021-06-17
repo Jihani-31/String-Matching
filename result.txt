@@ -1,0 +1,467 @@
+Enter your Birth Year:
+1997
+1997-------------->97
+Enter your Birth Month:
+12
+Enter your Birth Date:
+31
+971231
+Now your birthday string is : 971231
+
+------ Enter string matching algorithm  to search your birthday string Index------
+
+
+1. Naive String Matching Algorithm
+2. Knuth-Morris-Pratt Algorithm
+3. Rabin Karp Algorithm
+4. Boyer-Moore Algorithm
+5. Exit
+
+
+Enter an option:1
+Pattern found at index: 640726
+Pattern found at index: 927129
+Pattern found at index: 2506678
+Pattern found at index: 5770202
+Pattern found at index: 6791383
+Pattern found at index: 7994672
+Pattern found at index: 8647184
+Pattern found at index: 12008578
+Pattern found at index: 16122798
+Pattern found at index: 16800775
+Pattern found at index: 16861577
+Pattern found at index: 17761337
+Pattern found at index: 23230731
+Pattern found at index: 24452107
+Pattern found at index: 25198475
+Pattern found at index: 25421129
+Pattern found at index: 25845942
+Pattern found at index: 28051633
+Pattern found at index: 28330441
+Pattern found at index: 28595624
+Pattern found at index: 29133795
+Pattern found at index: 30154631
+Pattern found at index: 31376739
+Pattern found at index: 31506526
+Pattern found at index: 31636468
+Pattern found at index: 31791273
+Pattern found at index: 32748468
+Pattern found at index: 34273590
+Pattern found at index: 37142278
+Pattern found at index: 37449618
+Pattern found at index: 37529763
+Pattern found at index: 37848019
+Pattern found at index: 38887132
+Pattern found at index: 39195163
+Pattern found at index: 40495730
+Pattern found at index: 40632595
+Pattern found at index: 41738294
+Pattern found at index: 42465772
+Pattern found at index: 42529645
+Pattern found at index: 46407033
+Pattern found at index: 46813164
+Pattern found at index: 46869850
+Pattern found at index: 47071786
+Pattern found at index: 48570906
+Pattern found at index: 48601825
+Pattern found at index: 49330482
+Pattern found at index: 49995329
+Pattern found at index: 51906531
+Pattern found at index: 52506787
+Pattern found at index: 52698530
+Pattern found at index: 54341321
+Pattern found at index: 57200423
+Pattern found at index: 57621410
+Pattern found at index: 59827828
+Pattern found at index: 61639669
+Pattern found at index: 61692740
+Pattern found at index: 62686819
+Pattern found at index: 62763063
+Pattern found at index: 62872203
+Pattern found at index: 62889702
+Pattern found at index: 63201132
+Pattern found at index: 63557099
+Pattern found at index: 64208814
+Pattern found at index: 64365679
+Pattern found at index: 64615268
+Pattern found at index: 64633979
+Pattern found at index: 65800070
+Pattern found at index: 66626114
+Pattern found at index: 68361002
+Pattern found at index: 68471980
+Pattern found at index: 70763719
+Pattern found at index: 70916604
+Pattern found at index: 71135598
+Pattern found at index: 71597549
+Pattern found at index: 72941342
+Pattern found at index: 74551746
+Pattern found at index: 74980933
+Pattern found at index: 75356903
+Pattern found at index: 76684830
+Pattern found at index: 76743898
+Pattern found at index: 77234176
+Pattern found at index: 77326369
+Pattern found at index: 79744305
+Pattern found at index: 79836615
+Pattern found at index: 79955448
+Pattern found at index: 81291457
+Pattern found at index: 82361966
+Pattern found at index: 83476915
+Pattern found at index: 83761234
+Pattern found at index: 86454772
+Pattern found at index: 87061809
+Pattern found at index: 90546708
+Pattern found at index: 91669627
+Pattern found at index: 93803471
+Pattern found at index: 94214775
+Pattern found at index: 94847668
+Pattern found at index: 98298615
+Pattern found at index: 98928083
+Pattern found at index: 99439145
+
+------ Enter string matching algorithm  to search your birthday string Index------
+
+
+1. Naive String Matching Algorithm
+2. Knuth-Morris-Pratt Algorithm
+3. Rabin Karp Algorithm
+4. Boyer-Moore Algorithm
+5. Exit
+
+
+Enter an option:2
+Pattern found at index: 640726
+Pattern found at index: 927129
+Pattern found at index: 2506678
+Pattern found at index: 5770202
+Pattern found at index: 6791383
+Pattern found at index: 7994672
+Pattern found at index: 8647184
+Pattern found at index: 12008578
+Pattern found at index: 16122798
+Pattern found at index: 16800775
+Pattern found at index: 16861577
+Pattern found at index: 17761337
+Pattern found at index: 23230731
+Pattern found at index: 24452107
+Pattern found at index: 25198475
+Pattern found at index: 25421129
+Pattern found at index: 25845942
+Pattern found at index: 28051633
+Pattern found at index: 28330441
+Pattern found at index: 28595624
+Pattern found at index: 29133795
+Pattern found at index: 30154631
+Pattern found at index: 31376739
+Pattern found at index: 31506526
+Pattern found at index: 31636468
+Pattern found at index: 31791273
+Pattern found at index: 32748468
+Pattern found at index: 34273590
+Pattern found at index: 37142278
+Pattern found at index: 37449618
+Pattern found at index: 37529763
+Pattern found at index: 37848019
+Pattern found at index: 38887132
+Pattern found at index: 39195163
+Pattern found at index: 40495730
+Pattern found at index: 40632595
+Pattern found at index: 41738294
+Pattern found at index: 42465772
+Pattern found at index: 42529645
+Pattern found at index: 46407033
+Pattern found at index: 46813164
+Pattern found at index: 46869850
+Pattern found at index: 47071786
+Pattern found at index: 48570906
+Pattern found at index: 48601825
+Pattern found at index: 49330482
+Pattern found at index: 49995329
+Pattern found at index: 51906531
+Pattern found at index: 52506787
+Pattern found at index: 52698530
+Pattern found at index: 54341321
+Pattern found at index: 57200423
+Pattern found at index: 57621410
+Pattern found at index: 59827828
+Pattern found at index: 61639669
+Pattern found at index: 61692740
+Pattern found at index: 62686819
+Pattern found at index: 62763063
+Pattern found at index: 62872203
+Pattern found at index: 62889702
+Pattern found at index: 63201132
+Pattern found at index: 63557099
+Pattern found at index: 64208814
+Pattern found at index: 64365679
+Pattern found at index: 64615268
+Pattern found at index: 64633979
+Pattern found at index: 65800070
+Pattern found at index: 66626114
+Pattern found at index: 68361002
+Pattern found at index: 68471980
+Pattern found at index: 70763719
+Pattern found at index: 70916604
+Pattern found at index: 71135598
+Pattern found at index: 71597549
+Pattern found at index: 72941342
+Pattern found at index: 74551746
+Pattern found at index: 74980933
+Pattern found at index: 75356903
+Pattern found at index: 76684830
+Pattern found at index: 76743898
+Pattern found at index: 77234176
+Pattern found at index: 77326369
+Pattern found at index: 79744305
+Pattern found at index: 79836615
+Pattern found at index: 79955448
+Pattern found at index: 81291457
+Pattern found at index: 82361966
+Pattern found at index: 83476915
+Pattern found at index: 83761234
+Pattern found at index: 86454772
+Pattern found at index: 87061809
+Pattern found at index: 90546708
+Pattern found at index: 91669627
+Pattern found at index: 93803471
+Pattern found at index: 94214775
+Pattern found at index: 94847668
+Pattern found at index: 98298615
+Pattern found at index: 98928083
+Pattern found at index: 99439145
+
+------ Enter string matching algorithm  to search your birthday string Index------
+
+
+1. Naive String Matching Algorithm
+2. Knuth-Morris-Pratt Algorithm
+3. Rabin Karp Algorithm
+4. Boyer-Moore Algorithm
+5. Exit
+
+Enter an option:3
+Pattern found at index :640726
+Pattern found at index :927129
+Pattern found at index :2506678
+Pattern found at index :5770202
+Pattern found at index :6791383
+Pattern found at index :7994672
+Pattern found at index :8647184
+Pattern found at index :12008578
+Pattern found at index :16122798
+Pattern found at index :16800775
+Pattern found at index :16861577
+Pattern found at index :17761337
+Pattern found at index :23230731
+Pattern found at index :24452107
+Pattern found at index :25198475
+Pattern found at index :25421129
+Pattern found at index :25845942
+Pattern found at index :28051633
+Pattern found at index :28330441
+Pattern found at index :28595624
+Pattern found at index :29133795
+Pattern found at index :30154631
+Pattern found at index :31376739
+Pattern found at index :31506526
+Pattern found at index :31636468
+Pattern found at index :31791273
+Pattern found at index :32748468
+Pattern found at index :34273590
+Pattern found at index :37142278
+Pattern found at index :37449618
+Pattern found at index :37529763
+Pattern found at index :37848019
+Pattern found at index :38887132
+Pattern found at index :39195163
+Pattern found at index :40495730
+Pattern found at index :40632595
+Pattern found at index :41738294
+Pattern found at index :42465772
+Pattern found at index :42529645
+Pattern found at index :46407033
+Pattern found at index :46813164
+Pattern found at index :46869850
+Pattern found at index :47071786
+Pattern found at index :48570906
+Pattern found at index :48601825
+Pattern found at index :49330482
+Pattern found at index :49995329
+Pattern found at index :51906531
+Pattern found at index :52506787
+Pattern found at index :52698530
+Pattern found at index :54341321
+Pattern found at index :57200423
+Pattern found at index :57621410
+Pattern found at index :59827828
+Pattern found at index :61639669
+Pattern found at index :61692740
+Pattern found at index :62686819
+Pattern found at index :62763063
+Pattern found at index :62872203
+Pattern found at index :62889702
+Pattern found at index :63201132
+Pattern found at index :63557099
+Pattern found at index :64208814
+Pattern found at index :64365679
+Pattern found at index :64615268
+Pattern found at index :64633979
+Pattern found at index :65800070
+Pattern found at index :66626114
+Pattern found at index :68361002
+Pattern found at index :68471980
+Pattern found at index :70763719
+Pattern found at index :70916604
+Pattern found at index :71135598
+Pattern found at index :71597549
+Pattern found at index :72941342
+Pattern found at index :74551746
+Pattern found at index :74980933
+Pattern found at index :75356903
+Pattern found at index :76684830
+Pattern found at index :76743898
+Pattern found at index :77234176
+Pattern found at index :77326369
+Pattern found at index :79744305
+Pattern found at index :79836615
+Pattern found at index :79955448
+Pattern found at index :81291457
+Pattern found at index :82361966
+Pattern found at index :83476915
+Pattern found at index :83761234
+Pattern found at index :86454772
+Pattern found at index :87061809
+Pattern found at index :90546708
+Pattern found at index :91669627
+Pattern found at index :93803471
+Pattern found at index :94214775
+Pattern found at index :94847668
+Pattern found at index :98298615
+Pattern found at index :98928083
+Pattern found at index :99439145
+
+------ Enter string matching algorithm  to search your birthday string Index------
+
+
+1. Naive String Matching Algorithm
+2. Knuth-Morris-Pratt Algorithm
+3. Rabin Karp Algorithm
+4. Boyer-Moore Algorithm
+5. Exit
+
+Enter an option:4
+pattern found at Index: 640726
+pattern found at Index: 927129
+pattern found at Index: 2506678
+pattern found at Index: 5770202
+pattern found at Index: 6791383
+pattern found at Index: 7994672
+pattern found at Index: 8647184
+pattern found at Index: 12008578
+pattern found at Index: 16122798
+pattern found at Index: 16800775
+pattern found at Index: 16861577
+pattern found at Index: 17761337
+pattern found at Index: 23230731
+pattern found at Index: 24452107
+pattern found at Index: 25198475
+pattern found at Index: 25421129
+pattern found at Index: 25845942
+pattern found at Index: 28051633
+pattern found at Index: 28330441
+pattern found at Index: 28595624
+pattern found at Index: 29133795
+pattern found at Index: 30154631
+pattern found at Index: 31376739
+pattern found at Index: 31506526
+pattern found at Index: 31636468
+pattern found at Index: 31791273
+pattern found at Index: 32748468
+pattern found at Index: 34273590
+pattern found at Index: 37142278
+pattern found at Index: 37449618
+pattern found at Index: 37529763
+pattern found at Index: 37848019
+pattern found at Index: 38887132
+pattern found at Index: 39195163
+pattern found at Index: 40495730
+pattern found at Index: 40632595
+pattern found at Index: 41738294
+pattern found at Index: 42465772
+pattern found at Index: 42529645
+pattern found at Index: 46407033
+pattern found at Index: 46813164
+pattern found at Index: 46869850
+pattern found at Index: 47071786
+pattern found at Index: 48570906
+pattern found at Index: 48601825
+pattern found at Index: 49330482
+pattern found at Index: 49995329
+pattern found at Index: 51906531
+pattern found at Index: 52506787
+pattern found at Index: 52698530
+pattern found at Index: 54341321
+pattern found at Index: 57200423
+pattern found at Index: 57621410
+pattern found at Index: 59827828
+pattern found at Index: 61639669
+pattern found at Index: 61692740
+pattern found at Index: 62686819
+pattern found at Index: 62763063
+pattern found at Index: 62872203
+pattern found at Index: 62889702
+pattern found at Index: 63201132
+pattern found at Index: 63557099
+pattern found at Index: 64208814
+pattern found at Index: 64365679
+pattern found at Index: 64615268
+pattern found at Index: 64633979
+pattern found at Index: 65800070
+pattern found at Index: 66626114
+pattern found at Index: 68361002
+pattern found at Index: 68471980
+pattern found at Index: 70763719
+pattern found at Index: 70916604
+pattern found at Index: 71135598
+pattern found at Index: 71597549
+pattern found at Index: 72941342
+pattern found at Index: 74551746
+pattern found at Index: 74980933
+pattern found at Index: 75356903
+pattern found at Index: 76684830
+pattern found at Index: 76743898
+pattern found at Index: 77234176
+pattern found at Index: 77326369
+pattern found at Index: 79744305
+pattern found at Index: 79836615
+pattern found at Index: 79955448
+pattern found at Index: 81291457
+pattern found at Index: 82361966
+pattern found at Index: 83476915
+pattern found at Index: 83761234
+pattern found at Index: 86454772
+pattern found at Index: 87061809
+pattern found at Index: 90546708
+pattern found at Index: 91669627
+pattern found at Index: 93803471
+pattern found at Index: 94214775
+pattern found at Index: 94847668
+pattern found at Index: 98298615
+pattern found at Index: 98928083
+pattern found at Index: 99439145
+
+------ Enter string matching algorithm  to search your birthday string Index------
+
+
+1. Naive String Matching Algorithm
+2. Knuth-Morris-Pratt Algorithm
+3. Rabin Karp Algorithm
+4. Boyer-Moore Algorithm
+5. Exit
+
+
+Enter an option:5
+
+--------------------------------
+Process exited after 365.4 seconds with return value 0
+Press any key to continue . . .
