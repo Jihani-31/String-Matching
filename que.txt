@@ -12,4 +12,4 @@ Use this link(https://ia800905.us.archive.org/30/items/Pi_to_100000000_places/pi
 to download the first 100 million digits of PI as a text file.
 
 
-Submit a .zip file containing all the source codes and the results.txt file. results.txt file should contain your birthday string, list of indexes where a match is found for each string matching algorithm. 
+ results.txt file should contain your birthday string, list of indexes where a match is found for each string matching algorithm. 
